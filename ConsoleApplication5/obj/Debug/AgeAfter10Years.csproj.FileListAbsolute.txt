@@ -1,0 +1,6 @@
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\ConsoleApplication5\obj\Debug\AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

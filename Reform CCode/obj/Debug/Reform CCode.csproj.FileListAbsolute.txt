@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\Reform CCode\bin\Debug\Reform CCode.exe.config
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\Reform CCode\bin\Debug\Reform CCode.exe
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\Reform CCode\bin\Debug\Reform CCode.pdb
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\Reform CCode\obj\Debug\Reform CCode.exe
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\Reform CCode\obj\Debug\Reform CCode.pdb

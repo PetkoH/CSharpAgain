@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\CurrentDateTime\obj\Debug\CurrentDateTime.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

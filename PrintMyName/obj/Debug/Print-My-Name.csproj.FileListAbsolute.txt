@@ -1,0 +1,8 @@
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\petko\documents\visual studio 2013\Projects\HelloCSharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintMyName\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintMyName\obj\Debug\ConsoleApplication1.exe
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\PrintMyName\obj\Debug\ConsoleApplication1.pdb

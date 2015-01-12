@@ -1,0 +1,1 @@
+C:\Users\Petko\Documents\Visual Studio 2013\Projects\HelloCSharp\FirstLastName\bin\Debug\ConsoleApplication3.exe.config
